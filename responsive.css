@@ -1,0 +1,44 @@
+@media screen and (max-width: 700px) {
+  nav {
+    box-shadow: none;
+    width: 95%;
+  }
+
+  nav ul a {
+    display: none;
+  }
+
+  .logo {
+    width: 100px;
+  }
+
+  .menu {
+    display: block;
+  }
+  .headline {
+    border: none;
+    padding: 0;
+  }
+  .headline p {
+    flex-direction: column;
+  }
+  .headline button {
+    margin: 1em 3em 1em 0em;
+    font-size: 3vmin;
+    padding: 7px 25px;
+  }
+
+  .cart img {
+    height: 30px;
+    margin: 1.5em auto;
+    cursor: pointer;
+  }
+
+  .side-cart-active {
+    display: flex;
+    height: 40%;
+    width: 80%;
+    top: 30%;
+    left: 10%;
+  }
+}
