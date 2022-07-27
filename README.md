@@ -1,2 +1,2 @@
 # Food-Website
-Responsive design Hamburger Menu and Cart
+Responsive design - Hamburger Menu and Cart
